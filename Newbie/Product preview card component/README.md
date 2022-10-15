@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links (TBD)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-DBUzPCiAnt)
 - Live Site URL: [netlify](https://snazzy-chaja-211a4d.netlify.app)
 
 ## My process
@@ -47,7 +47,7 @@ Users should be able to:
 Learned how to swap screens between desktop and mobile.
 
 ```css
-@media (max-width: 500px) {
+@media (max-width: 600px) {
 
 }
 ```
