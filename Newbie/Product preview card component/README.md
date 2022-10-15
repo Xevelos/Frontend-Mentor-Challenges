@@ -4,7 +4,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Table of contents
 
-- [Overview (filling in progress)](#overview)
+- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -27,9 +27,9 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](https://github.com/Xevelos/Frontend-Mentor-Challenges/blob/main/Newbie/Product%20preview%20card%20component/screenshots/desktop.PNG)
-![Mobile](screenshots/mobile.png)
+![Mobile](https://github.com/Xevelos/Frontend-Mentor-Challenges/blob/main/Newbie/Product%20preview%20card%20component/screenshots/mobile.PNG)
 
-### Links
+### Links (TBD)
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
