@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![plot](./screenshots/desktop.png)
-![plot](./screenshots/mobile.png)
+![Desktop](screenshots/desktop.png)
+![Mobile](screenshots/mobile.png)
 
 ### Links
 
