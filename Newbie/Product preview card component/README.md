@@ -32,7 +32,7 @@ Users should be able to:
 ### Links (TBD)
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-DBUzPCiAnt)
-- Live Site URL: [netlify](https://snazzy-chaja-211a4d.netlify.app)
+- Live Site URL: [netlify](https://illustrious-cascaron-088784.netlify.app)
 
 ## My process
 
