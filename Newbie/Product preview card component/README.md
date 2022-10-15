@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](screenshots/desktop.png)
+![Desktop](https://github.com/Xevelos/Frontend-Mentor-Challenges/blob/main/Newbie/Product%20preview%20card%20component/screenshots/desktop.PNG)
 ![Mobile](screenshots/mobile.png)
 
 ### Links
