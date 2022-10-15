@@ -120,7 +120,7 @@ p {
 	width: auto;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
 	body .container {
 		top: 25%;
 	}
