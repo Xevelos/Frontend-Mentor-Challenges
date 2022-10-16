@@ -25,12 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](https://github.com/Xevelos/Frontend-Mentor-Challenges/blob/main/Newbie/NFT%20preview%20card%20component/screenshots/normal.PNG)
+![Desktop-hover](https://github.com/Xevelos/Frontend-Mentor-Challenges/blob/main/Newbie/NFT%20preview%20card%20component/screenshots/hover.PNG)
 
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-Yfiu_mRHaA)
-- Live Site URL: [Netlify](https://cosmic-gnome-374e0a.netlify.app/)
+- Live Site URL: [netlify](https://cosmic-gnome-374e0a.netlify.app/)
 
 ## My process
 
