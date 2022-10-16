@@ -29,7 +29,7 @@ Users should be able to:
 ![Desktop](https://github.com/Xevelos/Frontend-Mentor-Challenges/blob/main/Newbie/Product%20preview%20card%20component/screenshots/desktop.PNG)
 ![Mobile](https://github.com/Xevelos/Frontend-Mentor-Challenges/blob/main/Newbie/Product%20preview%20card%20component/screenshots/mobile.PNG)
 
-### Links (TBD)
+### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/product-preview-card-component-DBUzPCiAnt)
 - Live Site URL: [netlify](https://illustrious-cascaron-088784.netlify.app)
