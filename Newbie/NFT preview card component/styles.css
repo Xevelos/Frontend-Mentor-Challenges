@@ -65,10 +65,34 @@ p {
 	width: 350px;
 }
 
-.container picture img {
+.overlay {
+	position: relative;
+	border-radius: 36px;
+}
+
+.overlay .eq {
+	border-radius: 36px;
 	padding: 25px;
 	height: auto;
 	width: 100%;
+}
+
+.overlay .eye {
+	background-color: var(--Cyan);
+	border: 125px solid var(--Cyan);
+	border-radius: 10px;
+	display: block;
+	height: 300px;
+	left: 25px;
+	position: absolute;
+	opacity: 0;
+	top: 25px;
+	width: 300px;
+}
+
+.overlay:hover .eye {
+	cursor: pointer;
+	opacity: 0.6;
 }
 
 .info {
